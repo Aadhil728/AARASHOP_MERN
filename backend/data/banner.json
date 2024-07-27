@@ -1,0 +1,22 @@
+[
+  {
+    "discount": "30% OFF",
+    "title": "Fine Smile",
+    "date": "10 Jan to 28 Jan",
+    "image": "/images/banner/headphone.png",
+    "title2": "Air Solo Bass",
+    "title3": "Winner Sale",
+    "description": "lorem ipsum dolor sit amet, consectetur adip nonum soc",
+    "bgColor": "#F42C37"
+  },
+  {
+    "discount": "25% OFF",
+    "title": "Happy Hours",
+    "date": "14 Jan to 28 Jan",
+    "image": "/images/banner/smartwatch.png",
+    "title2": "Smart Bass",
+    "title3": "Winner Sale",
+    "description": "lorem ipsum dolor sit amet, consectetur adip nonum soc",
+    "bgColor": "#2dcc6f"
+  }
+]

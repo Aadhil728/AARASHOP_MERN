@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Golden",
+    "image": "/images/brands/br-1.png"
+  },
+  {
+    "name": "Jack Roller",
+    "image": "/images/brands/br-2.png"
+  },
+  {
+    "name": "Sweety",
+    "image": "/images/brands/br-3.png"
+  },
+  {
+    "name": "Mighty Furnitures",
+    "image": "/images/brands/br-4.png"
+  },
+  {
+    "name": "FastLane",
+    "image": "/images/brands/br-5.png"
+  }
+]
